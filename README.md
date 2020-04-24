@@ -4,7 +4,7 @@ Useful related to airgeddon packages for Debian based Linux distributions.
 
 Here is a collection of deb packages to be installed using `dpkg -i <package>` command.
 
-__Missing packages__
+__Missing packages for archs__
 
  - x64
 
@@ -17,6 +17,8 @@ Missing some packages: hcxtools, bully, gawk or anything containing awk command,
  - armel (Kali/Parrot for Raspberry pi)
 
 Missing some packages: python-twisted-bin, sslstrip, ruby-em-proxy, ruby-network-interface, beef-xss, bettercap, hashcat.
+
+____
 
 __This is completely unofficial, so don't ask airgeddon staff about it. Don't request anything to be included and don't open any issue regarding this__. Just contact us if you have one of the missing deb packages.
 
