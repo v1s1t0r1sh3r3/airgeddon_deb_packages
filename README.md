@@ -12,11 +12,11 @@ __Missing packages for archs__
 
  - armhf (Raspbian for Raspberry pi)
 
-Missing some packages: hcxtools, bully, gawk or anything containing awk command, ruby-em-proxy, ruby-network-interface, beef-xss, bettercap, hashcat.
+Missing only one package: bettercap 1.6.2.
 
  - armel (Kali/Parrot for Raspberry pi)
 
-Missing some packages: python-twisted-bin, sslstrip, ruby-em-proxy, ruby-network-interface, beef-xss, bettercap, hashcat.
+Missing some packages: bettercap 1.6.2 and hashcat.
 
 ____
 
