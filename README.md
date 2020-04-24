@@ -6,17 +6,11 @@ Here is a collection of deb packages to be installed using `dpkg -i <package>` c
 
 __Missing packages for archs__
 
- - amd64
+ - amd64 <- Package collection is complete at this moment.
 
- amd64 package collection is complete at this moment.
+ - armhf (Raspbian for Raspberry pi) <- Missing only one package: _bettercap 1.6.2_.
 
- - armhf (Raspbian for Raspberry pi)
-
-Missing some packages: hcxtools, bully, gawk or anything containing awk command, ruby-em-proxy, ruby-network-interface, beef-xss, bettercap, hashcat.
-
- - armel (Kali/Parrot for Raspberry pi)
-
-Missing some packages: python-twisted-bin, sslstrip, ruby-em-proxy, ruby-network-interface, beef-xss, bettercap, hashcat.
+ - armel (Kali/Parrot for Raspberry pi) <- Missing some packages: _bettercap 1.6.2_ and _hashcat_.
 
 ____
 
