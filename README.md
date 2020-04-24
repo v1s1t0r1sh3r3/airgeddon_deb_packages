@@ -6,17 +6,11 @@ Here is a collection of deb packages to be installed using `dpkg -i <package>` c
 
 __Missing packages for archs__
 
- - x64
+ - x64 <- Package collection is complete at this moment.
 
- x64 package collection is complete at this moment.
+ - armhf (Raspbian for Raspberry pi) <- Missing only one package: _bettercap 1.6.2_.
 
- - armhf (Raspbian for Raspberry pi)
-
-Missing only one package: bettercap 1.6.2.
-
- - armel (Kali/Parrot for Raspberry pi)
-
-Missing some packages: bettercap 1.6.2 and hashcat.
+ - armel (Kali/Parrot for Raspberry pi) <- Missing some packages: _bettercap 1.6.2_ and _hashcat_.
 
 ____
 
