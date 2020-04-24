@@ -6,9 +6,9 @@ Here is a collection of deb packages to be installed using `dpkg -i <package>` c
 
 __Missing packages for archs__
 
- - x64
+ - amd64
 
- x64 package collection is complete at this moment.
+ amd64 package collection is complete at this moment.
 
  - armhf (Raspbian for Raspberry pi)
 
