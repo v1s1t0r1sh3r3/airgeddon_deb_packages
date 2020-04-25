@@ -6,11 +6,15 @@ Here is a collection of deb packages to be installed using `dpkg -i <package>` c
 
 __Missing packages for archs__
 
+ - i386 <- Missing some packages: _hostapd, lighttpd, python-twisted-bin_ and _rfkill_
+
  - amd64 <- Package collection is complete at this moment.
 
- - armhf (Raspbian for Raspberry pi) <- Missing only one package: _bettercap 1.6.2_.
+ - armhf (32bits Raspbian for Raspberry pi) <- Missing only one package: _hashcat-utils_.
 
- - armel (Kali/Parrot for Raspberry pi) <- Missing some packages: _bettercap 1.6.2_ and _hashcat_.
+ - armel (32bits Kali/Parrot for Raspberry pi) <- Missing some packages: _hashcat_ and _hashcat-utils_.
+
+ - arm64 (Any 64bits Linux for Raspberry pi) <- Missing some packages: _hostapd, lighttpd, python-twisted-bin, rfkill, hashcat_ and _hashcat-utils_
 
 ____
 
