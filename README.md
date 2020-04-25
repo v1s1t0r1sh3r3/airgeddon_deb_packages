@@ -14,7 +14,7 @@ __Missing packages for archs__
 
  - armel (32bits Kali/Parrot for Raspberry pi) <- Missing some packages: _hashcat_ and _hashcat-utils_.
 
- - arm64 (Any 64bits Linux for Raspberry pi) <- Missing some packages: _hostapd, lighttpd, python-twisted-bin, rfkill, hashcat_ and _hashcat-utils_
+ - arm64 (Any 64bits Linux for Raspberry pi) <- Missing some packages: _hashcat_ and _hashcat-utils_
 
 ____
 
