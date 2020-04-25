@@ -6,7 +6,7 @@ Here is a collection of deb packages to be installed using `dpkg -i <package>` c
 
 __Missing packages for archs__
 
- - i386 <- Missing some packages: _hostapd, lighttpd, python-twisted-bin_ and _rfkill_
+ - i386 <- Package collection is complete at this moment.
 
  - amd64 <- Package collection is complete at this moment.
 
