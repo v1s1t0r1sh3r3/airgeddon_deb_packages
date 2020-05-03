@@ -10,11 +10,11 @@ __Missing packages for archs__
 
  - amd64 <- Package collection is complete at this moment.
 
- - armhf (32bits Raspbian for Raspberry pi) <- Missing only one package: _hashcat-utils_.
+ - armhf (32bits Raspbian for Raspberry pi) <- Package collection is complete at this moment.
 
- - armel (32bits Kali/Parrot for Raspberry pi) <- Missing some packages: _hashcat_ and _hashcat-utils_.
+ - armel (32bits Kali/Parrot for Raspberry pi) <- Missing one package: _hashcat_.
 
- - arm64 (Any 64bits Linux for Raspberry pi) <- Missing some packages: _hashcat_ and _hashcat-utils_
+ - arm64 (Any 64bits Linux for Raspberry pi) <- Missing one package: _hashcat_.
 
 ____
 
