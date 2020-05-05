@@ -14,7 +14,7 @@ __Missing packages for archs__
 
  - armel (32bits Kali/Parrot for Raspberry pi) <- Missing one package: _hashcat_.
 
- - arm64 (Any 64bits Linux for Raspberry pi) <- Missing one package: _hashcat_.
+ - arm64 (Any 64bits Linux for Raspberry pi) <- Package collection is complete at this moment.
 
 ____
 
