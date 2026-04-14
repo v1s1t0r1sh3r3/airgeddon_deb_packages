@@ -1,1 +1,1 @@
-useful_kernels/kali-parrot/linux-image-custom_7.0.0-rc5-xpz3+.deb filter=lfs diff=lfs merge=lfs -text
+useful_kernels/kali-parrot/linux-image-7.0.0-xpz3.deb filter=lfs diff=lfs merge=lfs -text
