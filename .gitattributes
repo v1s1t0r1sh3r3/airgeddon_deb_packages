@@ -1,1 +1,1 @@
-useful_kernels/kali-parrot/linux-image-7.0.0-xpz3.deb filter=lfs diff=lfs merge=lfs -text
+useful_kernels/kali-parrot/linux-image-7.0.0-rc5-xpz3+_7.0.0~rc5-g054756b4d9ab-4_regdb_amd64.deb filter=lfs diff=lfs merge=lfs -text
